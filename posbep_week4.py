@@ -42,6 +42,5 @@ for i in range (0,len((data)),1):
         abs3.append (1)
     else:
         abs3.append (-1)
-
-        
+       
 ax1.plot(abs3,drawstyle='steps-pre')
